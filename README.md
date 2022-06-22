@@ -31,7 +31,7 @@ This full stack inventory application is designed and implemented as an eduactio
 ## Link to deployed site  
 * https://inventory-tracking-sys.herokuapp.com/
 
-## Installation intractions
+## Installation instructions
 
 1. `npm install`
 2. `npm run seed`
